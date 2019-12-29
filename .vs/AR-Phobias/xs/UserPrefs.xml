@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{BFE76E15-A910-8E9D-BB89-5A0B302F4FD8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/PlaneManager.cs">
+    <Files>
+      <File FileName="Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/PlaneManager.cs" Line="177" Column="52" />
+      <File FileName="Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/SpiderPlacement.cs" Line="128" Column="56" />
+      <File FileName="Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/ProductPlacement.cs" Line="208" Column="5" />
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/TouchHandler.cs" Line="54" Column="39" />
+      <File FileName="Assets/SamplesResources/SceneAssets/GroundPlane/Scripts/GroundPlaneUI.cs" Line="31" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AR-Phobias" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Common" expanded="True" />
+              <Node name="SamplesResources" expanded="True">
+                <Node name="SceneAssets" expanded="True">
+                  <Node name="GroundPlane" expanded="True">
+                    <Node name="Scripts" expanded="True">
+                      <Node name="PlaneManager.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AR-Phobias" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
